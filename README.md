@@ -1,1 +1,3 @@
-# /index.php
+---
+permalink: /index.php
+---
